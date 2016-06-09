@@ -116,13 +116,13 @@ letter:
   image: "http://d6xfpzo6h49n1.cloudfront.net/IT_Uxj3ziEhv5LDHzvzT8g7Jzxk=/https://www.filepicker.io/api/file/9DrwJEBRlipK7tHynVLW"
   contents:
     - paragraph: "<strong>Anyone can build and sell mobile apps.</strong>"
-    - paragraph: "Instead of computer science education and loans of $40k to $100k or month long bootcamps of $15k or more plus having to take time off from your current job, MoniGarr can show you how to get your own mobile apps created and selling worldwide quickly."
-    - paragraph: "On top of that, Monigarr gives you specific templates, project source codes, cheat sheets and more."
-    - paragraph: "MoniGarr online courses provide an affordable way for any busy entrepreneur to quickly get their own mobile app ideas created & selling."
-    - paragraph: "Whether your ambitions are to generate income, create a side business, or to develop mobile apps for your company, MoniGarr can take you there."
+    - paragraph: "Instead of years of training for a computer science degree with loans of $40k to $100k or month long bootcamps of $15k+ plus or having to take time off from your current job, MoniGarr can show you how to get your own mobile apps created and selling worldwide quickly."
+    - paragraph: "Monigarr gives you specific templates, project source codes, cheat sheets, personal reviews of your mobile apps and more."
+    - paragraph: "MoniGarr provides an affordable way for any busy entrepreneur to quickly get their own mobile app ideas quickly created & selling."
+    - paragraph: "Whether your ambitions are to generate income to fund your endangered language revival projects, to support your current class, create a side business, or to develop mobile apps full time, MoniGarr can take you there."
     - paragraph: "I'm looking forward to seeing the splash this course makes in the world. Sign up below to get your first lesson completely free."
     - paragraph: "As I prepare for our launch, you can sign up below to get your first lesson completely free."
-    - paragraph: "O:nen ki:wahi!"
+    - paragraph: "See You Soon! O:nen ki:wahi!"
     - paragraph: " Monica Peters, Founder of MoniGarr.com"
     - paragraph: ""
     - paragraph: ""
@@ -153,6 +153,8 @@ signup_2:
 faq:
   title: "Frequently Asked Questions"
   qa:
+    - question: "Is this course applicable for people that want to make mobile apps to showcase their own business?"
+      answer: "Yes. Use our templates and put any content you want inside your own mobile app and offer it in stores as free download."
     - question: "Is this course applicable for people that are already making mobile apps?"
       answer: "Absolutely. In fact, if you are already making & selling mobile apps, chances are you'd be able to recoup your investment in this course in a matter of days by following some of the more advanced strategies discussed. Even experienced mobile app develoeprs will be able to benefit from the templates, the networking, resources, video tutorials and personal project reviews from MoniGarr."
     - question: "How much does this course cost?"
