@@ -136,10 +136,10 @@ featuring:
   bonus: "...and including <span class='color-bold'>$1,000+</span> of free bonuses"
 
 bonuses:
-  - logo: "<a href='http://usefedora.com/?src=mdi-homepage' target='_blank'><img src='http://usefedora.com/images/logos/Fedora_Logo_v2_fixed.png'></a>"
+  - logo: "<img src='https://www.facebook.com/photo.php?fbid=10154148563081590&l=f96aee909b'>"
     text: "<strong>Free iPhone Templates</strong> to build and sell your own mobile apps"
     value: "Value up to $3500"
-  - logo: "<a href='http://convertkit.com/' target='_blank'><img src='https://s3-us-west-2.amazonaws.com/static-css-assets/logo/convert-kit.png'></a>"
+  - logo: "<img src='https://www.facebook.com/photo.php?fbid=10154148563181590&l=009d6372ab'>"
     text: "<strong>1 Free Android Template</strong> to build and sell your own mobile app"
     value: "Value up to $3500"
   - logo: "<img src='https://s3-us-west-2.amazonaws.com/static-css-assets/icons/question-mark.jpg'>"
