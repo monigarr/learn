@@ -129,12 +129,10 @@ letter:
 
 featuring:
   title: "Featuring insights from:"
-  /*
   people:
     - name: "to be announced"
       role: "Made $ building and selling mobile apps"
       image: "https://graph.facebook.com/tbd/picture?width=400&height=400"
-  
   bonus: "...and including <span class='color-bold'>$1,000+</span> of free bonuses"
 
 bonuses:
