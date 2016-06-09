@@ -10,6 +10,7 @@ testimonial:
 
 about:
   title: "About the Course"
+  image: "learn/images/223551_10151411264941590_1323942744_n.jpg"
   first_paragraph: "<p>The shift from personal computers to mobile devices and internet of things is one of the most exciting technology changes of our time.</p>
   <p>Today, a growing number of entrepreneurs create mobile apps with templates that are created from scratch by experienced software engineers. 
   They turn their mobile app ideas into making thousands or in some cases over a hundred thousand dollars in monthly income.</p>
@@ -44,7 +45,6 @@ about:
       income: "Education"
     - month: "4th Most Popular App Category 2015"
       income: "Lifestyle"
-  image: "learn/images/223551_10151411264941590_1323942744_n.jpg/"
   second_paragraph: "<p>Monica will be joined by guest instructors, that also build and sell mobile apps worldwide to solve real-world issues regarding endangered language revival, mobile commerce, medical issues, travel industry, education industry and more. 
   They break down what makes a best-selling mobile app stand out from the noise.</p>
   <p>You may have many goals before coming into this course – to install and update software, to quickly build & sell your first mobile app, to 
