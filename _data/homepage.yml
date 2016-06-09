@@ -79,7 +79,7 @@ learn:
   points:
     - number: "1"
       icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/idea.png"
-      title: "A Killer Mobile App Ideas"
+      title: "Awesome Mobile App Ideas"
       description: "How to find great mobile app ideas and evaluate the potential for success before developing anything"
     - number: "2"
       icon: "https://s3-us-west-2.amazonaws.com/static-css-assets/icons/learn-icons/research.png"
@@ -129,6 +129,7 @@ letter:
 
 featuring:
   title: "Featuring insights from:"
+  /*
   people:
     - name: "Noah Kagan"
       role: "Made $1M+ with the online course Monthly1k.com, Founder of AppSumo and <a href='http://sumome.com/' target='_blank'>SumoMe</a>"
@@ -166,6 +167,7 @@ featuring:
     - name: "Scott Britton"
       role: "Learn how Scott has made $50K on course marketplaces in the last 3 months."
       image: "https://graph.facebook.com/scottbrit/picture?width=400&height=400"
+      */
   bonus: "...and including <span class='color-bold'>$1,000+</span> of free bonuses"
 
 bonuses:
